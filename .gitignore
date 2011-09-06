@@ -1,0 +1,12 @@
+.DS_STORE
+*.pyc
+*.csv
+static/thumbs/**/*
+media/thumbs/**/*
+media/images/logos/
+media/images/coupons/
+media/images/thumbs/
+media/video/
+_build
+.idea
+.idea/workspace.xml
